@@ -20,7 +20,7 @@ void initialize()
 //Set the gambling information
 void Info()
 {
-	cout<<"You have played "<<nWin+nLose+nDraw<<" rounds in total£¬"<<"won "<<nWin<<" rounds£¬"<<"lost "
+	cout<<"You have played "<<nWin+nLose+nDraw<<" rounds in total, "<<"won "<<nWin<<" rounds, "<<"lost "
 	<<nLose<<" rounds, "<<"and drew "<<nDraw<<" rounds.\n\n";
 	cout<<"You have $"<<nChips<<" in your pocket.\n\n";
 } 
